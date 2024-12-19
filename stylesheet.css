@@ -3,3 +3,9 @@ img {
     height : 70%;
     width : 70%;
 }
+p
+    {
+        font-size : 20px;
+        color : grey;
+        font-family: italic;
+    }
